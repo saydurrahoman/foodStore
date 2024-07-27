@@ -1,2 +1,1 @@
-# foodStore
-html-css-boostsrap-javaScript e-commerce project
+live preview: https://saydurrahoman.github.io/foodStore/
