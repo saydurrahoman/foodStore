@@ -1,0 +1,394 @@
+ /* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+    /* header start */
+    .nav-food-custom img{
+        width: 75%;
+    }
+    /* header end */
+    /* banner start */
+    section {
+        padding: 40px 0;
+    }
+    h1 {
+        margin-bottom: 0.4rem;
+        font-size: 31px;
+        line-height: 35px;
+    }
+    .main_btn{
+        padding: 0.325rem 1rem;
+        font-size: 16px;
+    }
+    /* banner end */
+    /* product start */
+    .title-text h2{
+        font-size: 25px;
+    }
+    /* product end */
+    /* fresh start */
+    .fresh_contant h5{
+        margin-bottom: 1rem;
+    }
+    .fresh_contant h2{
+        font-size: 30px;
+    }
+    .fresh_contant h3{
+        margin: 1rem 0 1rem 0;
+        font-size: 21px;
+        font-weight: 400;
+    }
+    /* fresh end */
+    /* Most Sell Products start */
+    .most_product span {
+        width: 13.2rem;
+    }
+    .most-product .price-del {
+        margin: 13px 38px 0 0;
+    }
+    .most-product .hear-icon {
+        margin: 5px 0 0 60px;
+    }
+    /* Most Sell Products end */
+    /* Latest Products start */
+    .latest_product span {
+        width: 11rem;
+    }
+    /* Latest Products start */
+    /* review start */
+    .reviews-span span {
+        width: 8rem;
+    }
+    .reviews .testi-conatant {
+        padding: 1rem 0rem
+    }
+    .reviews .testi-conatant i {
+        left: 42%;
+        padding: 0px 13px;
+        font-size: 30px;
+    }
+    /* review end */
+    /* baked start */
+    .baked{
+        text-align: center;
+    }
+    .baked h2{
+        margin-bottom: 15px;
+        font-size: 25px;
+    }
+    /* baked end */
+    /* banner-story start */
+    .banner-story h1{
+        text-align: center;
+        margin: 4rem 0 0 0;
+    }
+    /* banner-story end */
+    /* form start */
+    .form_title span {
+        width: 7.5rem;
+    }
+    .address{
+        margin-top: 2rem;
+    }
+    /* form end */
+    /* footer-top start */
+    .f_section,
+    .f_user,
+    .f_contact{
+        margin-top: .5rem;
+    }
+    .f_section h4, 
+.f_user h4, 
+.f_contact  h4{
+    margin-bottom: .5rem;
+}
+    .f_about{
+        padding: 0;
+    }
+    .f_about img {
+        width: 50%;
+    }
+    .footer-bottom{
+        padding: .4rem 0;
+    }
+    /* footer-top end */
+    
+    /* scroll button start */
+    .totop{
+        right: 10px;
+    }
+    /* scroll button end */
+}
+
+ /* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    /* header start */
+    .nav-food-custom img{
+        width: 80%;
+    }
+    /* header end */
+    /* banner start */
+    section {
+        padding: 40px 0;
+    }
+    h1 {
+        margin-bottom: 0.4rem;
+        font-size: 35px;
+        line-height: 60px;
+    }
+    .main_btn{
+        padding: 0.325rem 1rem;
+        font-size: 16px;
+    }
+    /* banner end */
+    /* fresh start */
+    .fresh_contant h5{
+        margin-bottom: 1rem;
+    }
+    .fresh_contant h2{
+        font-size: 35px;
+    }
+    /* fresh end */
+    /* Most Sell Products start */
+    .most_product span {
+        width: 18.5rem;
+    }
+    .most-product .hear-icon {
+        margin: 5px 0 0 300px;
+    }
+    /* Most Sell Products end */
+    /* Latest Products start */
+    .latest_product span {
+        width: 15rem;
+    }
+    /* Latest Products start */
+    /* review start */
+    .reviews-span span {
+        width: 11rem;
+    }
+    .reviews .testi-conatant {
+        padding: 2rem 1rem
+    }
+    /* review end */
+    /* baked start */
+    .baked{
+        text-align: center;
+    }
+    .baked h2{
+        margin-bottom: 15px;
+        font-size: 25px;
+    }
+    /* baked end */
+    /* banner-story start */
+    .banner-story h1 {
+        line-height: 37px;
+        margin: 3rem 0 0 0;
+    }
+    /* banner-story end */
+    /* form start */
+    .form_title span {
+        width: 10.5rem;
+    }
+    .address{
+        margin-top: 2rem;
+    }
+    /* form end */
+    /* footer start */
+    .f_section,
+    .f_user,
+    .f_contact{
+        margin-top: 1rem;
+    }
+    /* footer end */
+}
+
+ /* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+    /* header start */
+    .nav-food-custom .navbar-toggler i {
+        font-size: 30px;
+        color: var(--primary-color);
+    }
+    /* header end */
+    /* banner start */
+    section {
+        padding: 45px 0;
+    }
+    h1 {
+        margin-bottom: 1rem;
+        font-size: 48px;
+        line-height: 60px;
+    }
+    /* banner end */
+    /* Most Sell Products start */
+    .most_product span {
+        width: 18.5rem;
+    }
+    .most-product .hear-icon {
+        margin: 5px 0 0 100px;
+    }
+    /* Most Sell Products end */
+    /* Latest Products start */
+    .latest_product span {
+        width: 15rem;
+    }
+    /* Latest Products start */
+    /* review start */
+    .reviews-span span {
+        width: 11rem;
+    }
+    .reviews .testi-conatant {
+        padding: .5rem .5rem
+    }
+    .reviews .testi-conatant i {
+        left: 40%;
+        font-size: 30px;
+    }
+    /* review end */
+    /* baked start */
+    .baked{
+        text-align: center;
+    }
+    .baked h2{
+        margin-bottom: 15px;
+        font-size: 35px;
+    }
+    /* baked end */
+    /* banner-story start */
+    .banner-story h1 {
+        line-height: 55px;
+        margin: 18rem 0 0 5rem;
+    }
+    /* banner-story end */
+    /* form start */
+    .form_title span {
+        width: 10.5rem;
+    }
+    .address{
+        margin-top: 3rem;
+    }
+    /* form end */
+    /* footer start */
+    .f_section,
+    .f_user,
+    .f_contact{
+        margin-top: 1rem;
+    }
+    /* footer end */
+    
+}
+
+ /* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    /* banner start */
+    section {
+        padding: 50px 0;
+    }
+    h1 {
+        margin-bottom: 1rem;
+        font-size: 55px;
+        line-height: 60px;
+    }
+    /* banner end */
+    /* fresh start */
+    .fresh_contant h2{
+        font-size: 40px;
+    }
+    .fresh_contant h3 {
+        font-size: 20px;
+    }
+    /* fresh end */
+    /* Most Sell Products start */
+    .most_product span {
+        width: 18.5rem;
+    }
+    .most-product .green_btn {
+        padding: 0.3rem 0.4em;
+        font-size: 16px;
+    }
+    .most-product i {
+        font-size: 18px;
+    }
+    .most-product .price-del {
+        margin: 15px 15px 0 0
+    }
+    /* Most Sell Products end */
+    /* Latest Products start */
+    .latest_product span {
+        width: 15rem;
+    }
+    .most-product a h2 {
+        font-size: 18px;
+    }
+    /* Latest Products start */
+    /* review start */
+    .reviews-span span {
+        width: 11rem;
+    }
+    .reviews .testi-conatant {
+        padding: 1rem 1rem
+    }
+    .reviews .testi-conatant i {
+        left: 43%;
+        font-size: 35px;
+    }
+    /* review end */
+    /* baked start */
+    .baked h2{
+        font-size: 35px;
+    }
+    .baked .main_btn{
+        margin-top: 5px;
+    }
+    /* baked end */
+    /* banner-story start */
+    .banner-story h1 {
+        margin: 18rem 0 0 1rem;
+    }
+    /* banner-story end */
+    /* form start */
+    .form_title span {
+        width: 10.8rem;
+    }
+    /* form end */
+}
+
+ /* Extra large devices (large desktops, 1200px and up) */
+ @media (min-width: 1200px) and (max-width: 1399.98px) {
+    /* product start */
+    .title-text h2{
+        font-size: 40px;
+    }
+    /* product end */
+}
+
+ /* Extra Extra large devices (large desktops, 1400px and up) */
+@media (min-width: 1400px) {
+    /* product start */
+    .title-text h2{
+        font-size: 45px;
+    }
+    /* product end */
+    /* fresh start */
+    .fresh_contant h2{
+        font-size: 50px;
+    }
+    .green_btn {
+        font-size: 18px;
+        padding: 0.625rem 1.825rem;
+    }
+    /* fresh end */
+    /* most sell product start */
+    .most_product span {
+        width: 24rem;
+    }
+    /* most sell product end */
+    /* Latest Products start */
+    .latest_product span {
+        width: 19.5rem;
+    }
+    /* Latest Products start */
+    /* form start */
+    .form_title span {
+        width: 13.7rem;
+    }
+    /* form end */
+}
